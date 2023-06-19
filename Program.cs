@@ -9,8 +9,7 @@
 ** ÖĞRENCİ ADI...............:  Sümeyye Karataş
 ** ÖĞRENCİ NUMARASI.:  B221210005
 ** DERS GRUBU…………:    1. Öğretim A Grubu
-YOUTUBE LİNKİ… …:     Soru 1-2 : https://youtu.be/-O4EFmg2cCs
-                      Soru-3  : https://youtu.be/ymmWe90tM8A 
+
                  
 ****************************************************************************/
 
